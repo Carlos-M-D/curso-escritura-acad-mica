@@ -10,8 +10,15 @@ csquotes: true
 papersize: a4
 fontsize: 12pt
 colorlinks: true
+urlcolor: ForestGreen
+linkcolor: ForestGreen
 bibliography: '/home/carlosm/biblioteca/biblioteca-zotero.bib'
 header-includes: \usepackage{xurl}
+titlepage: true
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "360049"
+titlepage-rule-height: 0
+titlepage-background: "background-verde.pdf"
 ---
 
 # Introducción [ ]
@@ -95,4 +102,17 @@ El curso se superará en el caso de que todos los alumnos entreguen las tareas y
 nocite: |
   @tenen2014, @atazlopez, @macfarlane2021, @macfarlane
 ...
+
+
+::: {#refs}
+:::
+
+\newpage
+
+# Breve currículum del ponente{.unnumbered}
+
+Carlos Martínez Domingo es graduado en Lengua y Literatura Españolas por la UNED y tiene el Título Superior de Música (especialidad de Interpretación-Guitarra) con mención de honor por el Conservatorio Superior de Música “Joaquín Rodrigo” de Valencia. Asimismo, ha seguido estudios de posgrado en la Escola Superior de Música de Catalunya con Àlex Garrobé y está realizando actualmente el doctorado en la UNED, bajo la dirección de la Dra. Clara I. Martínez-Cantón. Ha ejercido la docencia en institutos de educación secundaria y en conservatorios de música. En el campo de la investigación, está especialmente interesado en las relaciones música-literatura y en retórica literaria y musical, áreas sobre las que ha escrito artículos y presentado ponencias en varias universidades de España y Portugal. Como intérprete, ha actuado en diversas salas de concierto de España y Europa, tales como el Palau de la Música de Valencia, el Centre Cultural “La Beneficència” o el Arvo Pärt Centre (Laulasmaa, Estonia). Es miembro del proyecto de investigación +PoeMAS^[+PoeMAS, “MÁS POEsía para MÁS gente. La poesía en la
+música popular contemporánea”, proyecto de investigación con financiación del Ministerio de
+Ciencia e Innovación (PID2021-125022NB-I00), coordinado en la UNED por Clara I. Martínez
+Cantón y Guillermo Laín Corona, entre enero de 2022 y diciembre de 2024.].
 
