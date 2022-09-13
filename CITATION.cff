@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Curso "Escritura académica en texto plano:
+  Markdown"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Carlos
+    family-names: Martínez-Domingo
+    email: carlosmartinezdomingo@gmail.com
+    affiliation: >-
+      Universidad Nacional de Educación a Distancia
+      (UNED)
+    orcid: 'https://orcid.org/0000-0002-8986-423X'
