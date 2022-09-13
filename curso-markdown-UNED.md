@@ -38,7 +38,7 @@ El texto plano no depende de formatos propietarios (por ejemplo, el `.docx`) y e
 - Separación de forma y contenido.  
 Habitualmente, en la escritura académica en humanidades se emplean **procesadores** que siguen en el principio _WYSIWYG_^[_What you see is that you get_.]. Es decir, el proceso de creación de contenido y de aplicación de formato al texto suceden y se visualizan de forma simultánea. Frente a este paradigma se encuentra el principio _WYSIWM_^[What you see is what you mean.], que proporciona instrucciones sobre el formato que no se visualizan al instante. Aunque intuitivamente pueda parecer una desventaja, en realidad proporciona beneficios: el autor se centra en el contenido y las marcas de formato reproducen exactamente su intención y cobran un sentido _semántico_.
 - Automatización del formateo y ahorro de tiempo y esfuerzo.  
-A partir de las marcas de formato indicadas por el autor, el _software_ realiza las tareas automatizadas 
+A partir de las marcas de formato indicadas por el autor, el _software_ formatea el texto automáticamente. En este momento cobra sentido el uso de Pandoc[@macfarlane2021], un software que, a partir del potente lenguaje tipográfico \TeX y de \LaTeX, traduce las instrucciones en Markdown a formatos como `.pdf`. 
 
 - Sostenibilidad ambiental
 - Difusión del trabajo
