@@ -45,7 +45,7 @@ A partir de un mismo archivo de texto plano escrito en Markdown, es posible gene
 - Control de versiones.  
 El texto plano facilita el control de versiones cuando se emplea de forma conjunta a otros programas como Git. Este _software_ registra el historial de cambios de un documento y permite revertirlos de una forma segura y transparente.
 
-Gran parte de estos principios están en consonancia con los objetivos del proyecto +PoeMAS. Para comenzar, este tipo de escritura se integra fácilmente con plataformas empeladas en las humanidades digitales, como [GitHub](https://github.com/) o [GitLab](https://about.gitlab.com/). Además, tal y como se ha dicho, favorece la "interoperabilidad y la reutilización de datos" [@martinez-canton2021, 5] y se enmarca dentro de la previsión sobre actualización de las competencias digitales de los miembros del proyecto [@martinez-canton2021, p. 34] 
+Gran parte de estos principios están en consonancia con los objetivos del proyecto +PoeMAS. Para comenzar, este tipo de escritura se integra fácilmente con plataformas empleadas en las humanidades digitales, como [GitHub](https://github.com/) o [GitLab](https://about.gitlab.com/). Además, tal y como se ha dicho, favorece la "interoperabilidad y la reutilización de datos" [@martinez-canton2021, 5] y se enmarca dentro de la previsión sobre actualización de las competencias digitales de los miembros del proyecto [@martinez-canton2021, p. 34] 
 
 
 # Objetivos
@@ -69,7 +69,12 @@ de citación.
 - Presentaciones académicas con Markdown y Beamer
 - La gestión de la bibliografía para la escritura en texto plano.
 
-# Método y  plan de trabajo
+
+# Destinatarios
+
+El curso se dirige a todo el profesorado y personal investigador interesado en optimizar sus procesos de escritura. No es necesario contar con conocimientos previos en las herramientas de las que se hablará (Pandoc, Markdown, editores de texto plano, etc.), pero sí deben ser usuarios independientes en lo que se refiere a instalación de programas, tareas básicas de mantenimiento del sistema operativo. Además, puede resultar particularmente útil para investigadores del área de humanidades.
+
+# Metodología 
 
 La metodología didáctica seguirá dos patrones:
 
@@ -78,6 +83,12 @@ La metodología didáctica seguirá dos patrones:
   #. Un archivo Markdown y su exportación a `.html` donde se empleen la mayoría de elementos de marcado del lenguaje.
   #. Un archivo Markdown y su exportación a `.pdf` y `.odt` a través de Pandoc donde se incluyan elementos de marcado del lenguaje, con especial atención a aquellos más relevantes para la escritura académica: citas, notas al pie, referencias bibliográficas, etc.
   #. Un archivo Markdown en forma de presentación de `beamer` y su exportación a `.pdf` a través de Pandoc.
+  
+En cualquier caso, el curso seguirá una metodología a distancia, con  la posibilidad de consultar las dudas en foros y en la plataforma de la UNED o por correo electrónico. Se facilitará retroalimentación de las tareas realizadas.
+  
+# Plan de trabajo
+
+
   
 Por lo que respecta al plan de trabajo, el curso se organizarán en cuatro semanas de acuerdo con la siguiente temporalización:
 
